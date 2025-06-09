@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  text-align: center;
+  padding: 3rem;
+}
+input, select, button {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  width: 80%;
+  max-width: 300px;
+}
+button {
+  background-color: #ff9900;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.buttons button {
+  margin: 0.5rem;
+}
